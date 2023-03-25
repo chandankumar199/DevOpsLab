@@ -1,2 +1,2 @@
-# DevOpsLab
-This is the repository created to perform the DevOps Lab Assignment. 
+# onePageUI
+A one page UI for a Travel Landing Page. Designed using HTML, CSS and little amount of JavaScript. 
